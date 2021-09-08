@@ -581,7 +581,7 @@ begin
                 columns_load            <= '0';
                 total_pixels_load       <= '0';
                 start_new_px            <= '0'; 
-                shift_load              <= '0'; --non serve più computare lo shift
+                shift_load              <= '0'; --non serve piÃ¹ computare lo shift
                 max_min_load            <= '0';
                 reset_modules           <= '0';
           
