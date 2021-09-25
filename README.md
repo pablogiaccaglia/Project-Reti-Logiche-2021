@@ -19,3 +19,22 @@ This is the assigned specification for the project:
 [Report](https://github.com/pablogiaccaglia/project-reti-logiche-2021/blob/main/docs/report.pdf)  :page_facing_up: <br>
 [Tests](https://github.com/pablogiaccaglia/project-reti-logiche-2021/tree/main/source/tests)  :gear: <br>
 [Images](https://github.com/pablogiaccaglia/project-reti-logiche-2021/tree/main/docs/images)  :framed_picture:	<br>
+
+## Design [ITA]
+
+Finite State Machine (FSM) implemented
+
+<img src="https://github.com/pablogiaccaglia/Project-Reti-Logiche-2021/blob/main/docs/images/fsm.png"/>
+
+---
+
+Communication protocol between designed architecture and provided RAM
+
+<img src="https://github.com/pablogiaccaglia/Project-Reti-Logiche-2021/blob/main/docs/images/protocol.png"/>
+
+---
+
+Schematic design of the whole architecture<br>
+Full resolution available [here](https://github.com/pablogiaccaglia/Project-Reti-Logiche-2021/blob/main/docs/images/schematic.pdf) 
+<img src="https://github.com/pablogiaccaglia/Project-Reti-Logiche-2021/blob/main/docs/images/schematic-1.png"/>
+
