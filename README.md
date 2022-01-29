@@ -2,7 +2,7 @@
 ## Description
 Repository of the project developed for the "Prova Finale di Reti Logiche" (Final test of Logic Arrays) course, part of the Bachelor of Science in Computer Science and Engineering at Politecnico di Milano.
 
-This final test aims at assessing the students ability to implement an algorithm on a low-level hardware language such as VHDL, under time and memory constraints on a FPGA.
+This final test aims at assessing the students ability to implement an algorithm on a low-level hardware language such as VHDL, under time and memory constraints on a FPGA. Final grade 30L/30
 
 The aim of the project was the VHDL definition of a computer architecture able to equalize a 256-level b/w image histogram in order to recalibrate the contrast when the range of intensity values are very close by distributing them over the entire intensity range.
 Simulation had to be done both in Behavioral and Post-Synthesis, paying attention to the area occupied on the FPGA and the frequency of the clock.
